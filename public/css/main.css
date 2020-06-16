@@ -1,0 +1,49 @@
+.fontQS {
+  font-family: "Quicksand";
+  font-size: 19px;
+}
+
+.img-fluid-custom {
+  max-width: 60%;
+  height: auto;
+}
+
+.bg-color-custom {
+  background-color: whitesmoke;
+}
+
+#navbarNavDropdown ul li:hover {
+  background-color: #28a745;
+}
+
+#navbarNavDropdown ul li:hover a {
+  color: white;
+}
+
+.dropdown-toggle:hover {
+  background-color: #12422b;
+  color: white;
+}
+
+/* Show the dropdown menu on hover */
+
+.dropdown:hover .dropdown-menu {
+  display: block;
+}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+
+.dropdown-menu:hover .dropdown-item:hover {
+  background-color: #3e8e41;
+}
+
+.layout-boxed-custom {
+  margin: 0 auto;
+  max-width: 880px !important;
+}
+
+.justify-content {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
